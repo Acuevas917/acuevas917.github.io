@@ -1,0 +1,14 @@
+---
+title: "Projects"
+---
+
+`r icon_style(fontawesome("globe"), scale = 5, fill = "green")``r icon_style(fontawesome("plus"), scale = 2, fill = "black")``r icon_style(fontawesome("r-project"), scale = 5, fill = "blue")``r icon_style(fontawesome("equals"), scale = 2, fill = "black")``r icon_style(fontawesome("heart"), scale = 5, fill = "red")`
+
+
+In the summer of 2021, I took Geography 13 at UCSB. This class was a GIS course based in R. Here are the links to some of my work:
+
+## [Building a project website](https://github.com/Acuevas917/acuevas917.github.io.git)
+
+- This assignment was focused on building a static users site with Github Pages 
+- It includes a github repo for access to all the code.
+- As my first assignment of the quarter, there were some small obstacles. I hope to clean up my work as the class progresses.
